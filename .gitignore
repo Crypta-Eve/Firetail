@@ -59,6 +59,7 @@ __pycache__/
 
 # Config ignore
 firetail/config.py
+config/config.py
 
 # Data ignore
 firetail/logs/*
